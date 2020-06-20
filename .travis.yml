@@ -10,5 +10,5 @@ script:
 - make docker_push
 deploy:
     provider: heroku
-    app: boiling-lake-40894
+    app: young-refuge-79447
     api_key: ${HEROKU_API_KEY}
