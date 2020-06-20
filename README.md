@@ -84,7 +84,10 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   $ yum install -y docker-ce
   $ systemctl start docker
   ```
-# dodana strony do statuscake
+## dodanie badge statuscake
+
 <a href="https://www.statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/button/index.php?Track=5553799&Days=1&Design=1" /></a>
+
+## dodanie badge buil passing
 
 <img src="https://api.travis-ci.com/rafal-d/se_hello_printer_app.svg?branch=master&status=passed">
